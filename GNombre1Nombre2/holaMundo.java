@@ -5,7 +5,8 @@ public class ejercicios {
 		
 		
 		System.out.println("Hola Mundo!");
-		
+		System.out.println("Adios Mundo!");
+
 	}
 
 }
