@@ -8,6 +8,7 @@ public class ejercicios {
 		System.out.println("Adios Mundo!");
 		System.out.println("Siuuuuuuuuuuu");
 		System.out.println("Que miras bobo");
+		System.out.println("Viva españao");
 		System.out.println("Golazoooooooooooo");
 	}
 
